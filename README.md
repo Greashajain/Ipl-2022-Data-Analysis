@@ -56,4 +56,4 @@ The dataset contains match-level data from IPL 2022, including:
 - **Python**
 - **Pandas** – data wrangling
 - **Seaborn & Matplotlib** – data visualization
-- **Jupyter Notebook** – interactive analysis
+- **Google colab** – interactive analysis
